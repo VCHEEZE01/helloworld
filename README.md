@@ -19,6 +19,5 @@
 [대상 수상작 발표자료](presentation.pptx)
 
  발표동영상
- <iframe width="640" height="360" src="https://www.youtube.com/embed/Tgr9KOkjNnU" title="[22/23 PL 27R] 토트넘 vs 노팅엄 손흥민 주요장면" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/M-LSlRyi0Z4" title="버릴 장면이 하나도 없는 모란트의 인생 경기 | 멤피스 vs 샌안토니오 | NBA 경기 리뷰" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
